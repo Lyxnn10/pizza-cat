@@ -1,0 +1,14 @@
+body {
+    background-image: url('img/bg.jpg');
+    background-size: 105%;
+}
+
+#title {
+    color: #105989;
+
+}
+
+canvas{
+    display: block;
+    margin: 0 auto;
+}
