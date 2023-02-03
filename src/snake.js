@@ -39,11 +39,9 @@ let food = {
     y : Math.floor(Math.random()*15+3) * box
 }
 
-// create the score var
 
 let score = 0;
 
-//control the snake
 
 let d;
 
@@ -106,18 +104,15 @@ function draw(){
             y : Math.floor(Math.random()*15+3) * box
         }
     }else{
-        // remove the tail
         snake.pop();
     }
     
-    // add new Head
     
     let newHead = {
         x : snakeX,
         y : snakeY
     }
     
-    // game over
     
     if(snakeX < box || snakeX > 17 * box || snakeY < 3*box || snakeY > 17*box || collision(newHead,snake)){
         clearInterval(game);
@@ -131,6 +126,5 @@ function draw(){
     ctx.fillText(score,2*box,1.6*box);
 }
 
-// call draw function every 100 ms
 
 let game = setInterval(draw,100);
