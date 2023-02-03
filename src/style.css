@@ -12,3 +12,45 @@ canvas{
     display: block;
     margin: 0 auto;
 }
+
+
+.button-65 {
+    background-color: rgb(74, 117, 44);
+    border-radius: 10px;
+    border-style: none;
+    color: #fff;
+    font-family: Inter,-apple-system,system-ui,"Segoe UI",Helvetica,Arial,sans-serif;
+    height: 1cm;
+    width: 100%;
+    letter-spacing: normal;
+  }
+  
+  .button-65:hover {
+    background-color: rgb(86, 149, 41);
+    box-shadow: rgba(0, 0, 0, .05) 0 5px 30px, rgba(0, 0, 0, .05) 0 1px 4px;
+    opacity: 1;
+    transform: translateY(0);
+    transition-duration: .35s;
+  }
+  
+  .button-65:hover:after {
+    opacity: .5;
+  }
+  
+  .button-65:active {
+    box-shadow: rgba(0, 0, 0, .1) 0 3px 6px 0, rgba(0, 0, 0, .1) 0 0 10px 0, rgba(0, 0, 0, .1) 0 1px 4px -1px;
+    transform: translateY(2px);
+    transition-duration: .35s;
+  }
+  
+  .button-65:active:after {
+    opacity: 1;
+  }
+  
+  @media (min-width: 768px) {
+    .button-65 {
+      padding: 10px 22px;
+      width: 150px;
+      text-align: center;
+    }
+  }
