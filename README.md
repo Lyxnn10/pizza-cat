@@ -1,6 +1,7 @@
 <h1>Updated Snake Version: Pizza Cat! </h1>
 </br>
-![Netlify Status](https://api.netlify.com/api/v1/badges/1df9ef56-073c-4f89-a964-0ad44f930a8b/deploy-status)](https://lyx-pizza-cat.netlify.app/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4be94485-be54-4028-ad47-ba05b8bcf500/deploy-status)](https://app.netlify.com/sites/lyx-pizza-cat/deploys)
 
 <h1>Description:</h1>
 
