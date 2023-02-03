@@ -8,7 +8,7 @@
 
 
 <h2>Play it here:</h2>
-
+https://lyx-pizza-cat.netlify.app/
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4be94485-be54-4028-ad47-ba05b8bcf500/deploy-status)](https://app.netlify.com/sites/lyx-pizza-cat/deploys)
 
