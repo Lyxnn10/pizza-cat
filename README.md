@@ -17,7 +17,7 @@ https://lyx-pizza-cat.netlify.app/
 Pizza Cat for the phone - coming out soon!!!
 
 
-<h1>Description:</h1>
+<h1>Description: </h1>
 
 In the game of pizza cat, the player uses the arrow keys to move a "snake" around the board.
 As the snake finds a pizza cat, it eats the food, and thereby grows larger. The game ends when the snake either moves off the screen or moves into itself. The goal is to make the snake as large as possible before that happens.
