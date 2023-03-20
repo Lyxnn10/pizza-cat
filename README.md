@@ -14,7 +14,7 @@ https://lyx-pizza-cat.netlify.app/
 
 <h1>Next Updates:</h1>
 
-Pizza Cat for the phone - coming out soon!!!
+Pizza Cat for the phone - coming out soon!
 
 
 <h1>Description: </h1>
